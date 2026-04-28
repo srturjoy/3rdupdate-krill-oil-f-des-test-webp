@@ -117,7 +117,7 @@ export function StickyCTA() {
             onClick={() => openOrder()}
             className="flex-1 bg-cta text-primary-foreground font-bold px-3 py-3 rounded-xl shadow-glow animate-pulse-glow text-sm"
           >
-            🛒 অর্ডার করুন — ৳১৪৯০
+            🛒 অর্ডার করুন
           </button>
         </div>
       </div>
@@ -126,7 +126,7 @@ export function StickyCTA() {
         onClick={() => openOrder()}
         className="hidden md:flex fixed bottom-6 left-1/2 -translate-x-1/2 z-[65] bg-cta text-primary-foreground font-bold px-8 py-4 rounded-full shadow-glow animate-pulse-glow items-center gap-2"
       >
-        🛒 এখনই অর্ডার করুন — ৳১৪৯০
+        🛒 এখনই অর্ডার করুন
       </button>
 
       {/* Exit intent */}
