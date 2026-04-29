@@ -17,7 +17,12 @@ export const productConfig = {
     "Premium Antarctic Source",
     "60 Softgel Capsules",
   ],
-  spec: [],
+  spec: [
+  "60 Softgel Capsules",
+  "DHA & EPA Support",
+  "Premium Antarctic Source",
+  "Easy-to-take Formula",
+],
   heroImages: [
     "/images/hero-bottle-1.webp",
     "/images/hero-bottle-2.webp",
