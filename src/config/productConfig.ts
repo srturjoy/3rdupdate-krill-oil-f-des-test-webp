@@ -17,6 +17,7 @@ export const productConfig = {
     "Premium Antarctic Source",
     "60 Softgel Capsules",
   ],
+  spec: [],
   heroImages: [
     "/images/hero-bottle-1.webp",
     "/images/hero-bottle-2.webp",
